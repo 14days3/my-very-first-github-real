@@ -1,2 +1,3 @@
 # my-very-first-github-real
-never tell the wolrd your dreams
+My Very First Github Project 
+Made my first commit at Github as part of my cutting edge subject using vscode and git 
